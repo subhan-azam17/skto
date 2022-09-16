@@ -1,0 +1,2 @@
+# skto
+sub-domain-takeover
